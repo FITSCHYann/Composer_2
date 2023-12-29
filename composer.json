@@ -1,0 +1,16 @@
+{
+    "name": "wild/composer",
+    "description": "quest composer",
+    "autoload": {
+        "psr-4": {
+            "Wild\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "YannFitsch",
+            "email": "y.fitsch@ideematic.com"
+        }
+    ],
+    "require": {}
+}
